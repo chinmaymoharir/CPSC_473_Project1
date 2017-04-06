@@ -1,0 +1,69 @@
+{
+  "stories": [
+    {
+      "firstName": "Anjali",
+      "lastName": "Mutha",
+      "emailAddress": "anjalimutha10@gmail.com",
+      "location": "215 South Harbor Boulevard, Anaheim, CA, United States",
+      "celebrityName": "shah",
+      "description": "Some description here",
+      "storyLike": "1",
+      "storyDislike": "1",
+      "postDate": "2017-04-03T15:30:05-07:00",
+      "PostedSnapURL": "http://res.cloudinary.com/cpsc473/image/upload/c_limit,h_60,w_90/v1491258628/lhbinz92np28aohrutm5.jpg",
+      "id": "rJrQTBl6g"
+    },
+    {
+      "firstName": "chinmay",
+      "lastName": "moharir",
+      "emailAddress": "chinmay.moharir@gmail.com",
+      "location": "2435 Imperial Highway, Brea, CA, United States",
+      "celebrityName": "asknak",
+      "description": "I got a SELFIE",
+      "storyLike": "3",
+      "storyDislike": "0",
+      "postDate": "2017-04-03T16:18:28-08:00",
+      "PostedSnapURL": "http://res.cloudinary.com/cpsc473/image/upload/c_limit,h_60,w_90/v1491272099/a2mlpqf1ouvdaqm97cgj.jpg",
+      "id": "r1xtLPx6l"
+    },
+    {
+      "firstName": "Neha",
+      "lastName": "Tambe",
+      "emailAddress": "A@G.COM",
+      "location": "2435 Imperial Highway, Brea, CA, United States",
+      "celebrityName": "SALMAN",
+      "description": "COOOOOLLLLL",
+      "storyLike": "2",
+      "storyDislike": "1",
+      "postDate": "2017-04-03T16:42:09-08:00",
+      "PostedSnapURL": "http://res.cloudinary.com/cpsc473/image/upload/c_limit,h_60,w_90/v1491263017/vf9zqbkmcplgcth35fnz.jpg",
+      "id": "BkxIhweax"
+    },
+    {
+      "firstName": "Dev",
+      "lastName": "Nigam",
+      "emailAddress": "devnigam24@gmail.com",
+      "location": "Nutwood Avenue, Fullerton, CA, United States",
+      "celebrityName": "Shahrukh khan",
+      "description": "It was Awesome",
+      "storyLike": "0",
+      "storyDislike": "0",
+      "postDate": "2017-04-03T19:14:28-08:00",
+      "PostedSnapURL": "http://res.cloudinary.com/cpsc473/image/upload/c_limit,h_60,w_90/v1491272099/a2mlpqf1ouvdaqm97cgj.jpg",
+      "id": "rJdayqg6e"
+    },
+    {
+      "firstName": "Front",
+      "lastName": "End",
+      "emailAddress": "avc@bignerdranch.com",
+      "location": "241 Imperial Highway, La Habra, CA, United States",
+      "celebrityName": "Salman",
+      "description": "It was awesome meet",
+      "storyLike": "2",
+      "storyDislike": "1",
+      "postDate": "2017-04-03T20:09:29-07:00",
+      "PostedSnapURL": "http://res.cloudinary.com/cpsc473/image/upload/c_limit,h_60,w_90/v1491275439/pzihjlgk9cc43nwpvaa6.jpg",
+      "id": "HyjnRYxTg"
+    }
+  ]
+}
